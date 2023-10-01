@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+.btn {
+    margin: 5px;
+}
+
+span {
+    color: red;
+}
